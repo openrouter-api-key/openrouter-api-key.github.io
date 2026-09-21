@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://openrouter-api-key.github.io/sitemap.xml
