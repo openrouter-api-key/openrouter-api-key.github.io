@@ -21,4 +21,5 @@ Get the key if you are still deciding which model to use, because paying per req
 *This is an independent page about OpenRouter and is not affiliated with or endorsed by OpenRouter; all trademarks belong to their respective owners.*
 
 
+
 _Last reviewed: 2026-09-22_
